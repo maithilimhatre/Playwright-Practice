@@ -1,3 +1,4 @@
+//Array functions
 let marks = [35, 58, 66, 67, 74];
 
 //Sum of all elements
@@ -57,6 +58,7 @@ console.log(fruits.reverse())
 sortNums = [2,45,7,6,10,35]
 console.log(sortNums.sort((a,b) => a-b)); //Ascending
 console.log(sortNums.sort((a,b) => b-a)); //Descending
+
 
 
 
